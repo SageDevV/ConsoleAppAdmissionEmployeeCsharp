@@ -1,0 +1,14 @@
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.exe
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.deps.json
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.runtimeconfig.json
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.runtimeconfig.dev.json
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.dll
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\bin\Debug\netcoreapp3.1\EmployeePayment.pdb
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.AssemblyInfo.cs
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.dll
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.pdb
+C:\Users\122589\source\repos\EmployeePayment\EmployeePayment\obj\Debug\netcoreapp3.1\EmployeePayment.genruntimeconfig.cache
